@@ -1,5 +1,5 @@
 ###                                                       Hi 👋, I'm Dhir
-####                                         Automation devotee and product Management enthusiast
+####                                         Automation devotee and product management enthusiast
 
 
 **About Me:**
