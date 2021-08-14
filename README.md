@@ -10,7 +10,7 @@
 - 👯 We can connect to play some games of badminton and cricket
 - 🌱 I’m currently researching design patterns to write framework in more optimized way.
 - 📫 How to reach me dhiraj.varma2016@gmail.com
-- ⚡ Fun fact: The people I met through life have made me what I am today
+- ⚡ Fun fact: Veg Biryani Is Not Biryani, I Wish People Would Just Stop Calling It.
 - 😄 Pronouns: Dhir/Him/He
 
 <h3 align="left">Connect with me:</h3>
