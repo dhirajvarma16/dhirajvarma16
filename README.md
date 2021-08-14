@@ -1,4 +1,4 @@
-###                                                       Hi 👋, I'm Dhir
+###                                                    <h3 align="center">   Hi 👋, I'm Dhir </h3>
 ####                                         <h3 align="center">Automation devotee and product management enthusiast</h3> 
 
 
