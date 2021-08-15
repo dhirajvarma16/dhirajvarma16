@@ -6,11 +6,12 @@
  
 - 🏦 I'm a Software Engineer In Test working for PK Global remotely 
 - 📖 I am currently reading deep work by cal newport
-- 💬 Talk to me about cricket, quality engineering, test automation, product management & startups
+- 💬 Talk to me about cricket, quality engineering, test automation, product management,psychology,philosophy & startups
 - 👯 We can connect to play some games of badminton and cricket
 - 🌱 I’m currently researching design patterns to write framework in more optimized way.
 - 📫 How to reach me dhiraj.varma2016@gmail.com
 - ⚡ Fun fact: Veg Biryani Is Not Biryani, I Wish People Would Just Stop Calling It.
+- : 
 - 😄 Pronouns: Dhir/Him/He
 
 <h3 align="left">Connect with me:</h3>
