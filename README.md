@@ -4,7 +4,7 @@
 
 **About Me:**
  
-- 🏦 I'm a Software Engineer In Test working for PK Global remotely 
+- 🏦 I'm a Sr.Software Engineer In Test working for Gainsight remotely 
 - 📖 I am currently reading deep work by cal newport
 - 💬 Talk to me about cricket, quality engineering, test automation, product management,psychology,philosophy & startups
 - 👯 We can connect to play some games of badminton and cricket
