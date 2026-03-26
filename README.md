@@ -20,18 +20,18 @@
  
 <h3 align="left">Languages And Tools:</h3> 
 <p align="left">
-<p align="left"> • GenAI & AI Systems : Agentic AI, LLM Validation, GenAI Search, Vector Search, Knowledge Graphs, Cypher </p> 
-<p align="left"> • AI Testing Expertise : Prompt Engineering & Testing, Paraphrase Generation, Metadata Validation, Multi-LLM Testing, AI Security Testing </p> 
-<p align="left"> • Programming Languages : Core Java, SQL, JavaScript, Python, Spring Boot </p> 
-<p align="left"> • Database System : Cassandra, Redis, MongoDB, Postico </p> 
-<p align="left"> • Test Framework : TestNG, Data Driven, ATDD, BDD, POM, Keyword Driven </p> 
-<p align="left"> • Testing Libraries/FW : Selenium, API Automation, Appium, Robot Framework, Rest Assured </p> 
-<p align="left"> • Cloud Tools : Docker, AWS, BrowserStack, Sauce Labs </p> 
-<p align="left"> • Tools : Jenkins (DevOps), Maven, Kibana, Allure Report, Postman, JIRA, ALM, Zephyr </p> 
-<p align="left"> • Messaging Systems : RabbitMQ, Kafka, Dbqueue </p> 
-<p align="left"> • Log Management : Grafana, Sumo Logic </p> 
-<p align="left"> • Authentication Protocols : OAuth 2.0, OpenID </p> 
-<p align="left"> • Exposure : Banking (Retail), Industrial Engineering, Customer Success, AI/ML Platforms </p> 
+<p align="left"> • <b>GenAI & AI Systems</b> : Agentic AI, LLM Validation, GenAI Search, Vector Search, Knowledge Graphs, Cypher </p> 
+<p align="left"> • <b>AI Testing Expertise</b> : Prompt Engineering & Testing, Paraphrase Generation, Metadata Validation, Multi-LLM Testing, AI Security Testing </p> 
+<p align="left"> • <b>Programming Languages</b> : Core Java, SQL, JavaScript, Python, Spring Boot </p> 
+<p align="left"> • <b>Database System</b> : Cassandra, Redis, MongoDB, Postico </p> 
+<p align="left"> • <b>Test Framework</b> : TestNG, Data Driven, ATDD, BDD, POM, Keyword Driven </p> 
+<p align="left"> • <b>Testing Libraries/FW</b> : Selenium, API Automation, Appium, Robot Framework, Rest Assured </p> 
+<p align="left"> • <b>Cloud Tools</b> : Docker, AWS, BrowserStack, Sauce Labs </p> 
+<p align="left"> • <b>Tools</b> : Jenkins (DevOps), Maven, Kibana, Allure Report, Postman, JIRA, ALM, Zephyr </p> 
+<p align="left"> • <b>Messaging Systems</b> : RabbitMQ, Kafka, Dbqueue </p> 
+<p align="left"> • <b>Log Management</b> : Grafana, Sumo Logic </p> 
+<p align="left"> • <b>Authentication Protocols</b> : OAuth 2.0, OpenID </p> 
+<p align="left"> • <b>Exposure</b> : Banking (Retail), Industrial Engineering, Customer Success, AI/ML Platforms </p> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
